@@ -1,0 +1,19 @@
+.main-block {
+    padding-top: 50px;
+}
+
+.li-img {
+    display: flex;
+    flex-flow: column nowrap;
+    cursor: pointer;
+}
+.li-img img {
+    width: 100px;
+}
+.book-detail {
+    display: flex;
+    flex-flow: row nowrap;
+}
+.desription {
+    margin-bottom: 15px;
+}
