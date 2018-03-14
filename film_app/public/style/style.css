@@ -1,7 +1,9 @@
 .main-block {
     padding-top: 50px;
 }
-
+.img-arr-left {
+    width: 30px;
+}
 .li-img {
     display: flex;
     flex-flow: column nowrap;
