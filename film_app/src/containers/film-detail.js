@@ -6,7 +6,7 @@ class FilmDetail extends Component {
         if(!this.props.film) {
             return <div>
                 <h2>Добро пожаловать</h2>
-                <p><img src="img/restart.svg" className="img-arr-left" /> выбрать фильм</p>
+                <p><img alt="arrow-left" src="img/restart.svg" className="img-arr-left" /> выбрать фильм</p>
             </div>
         }
         return (
